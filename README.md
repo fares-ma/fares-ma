@@ -5,10 +5,8 @@
 <h1 align="center">Hey there 👋 I'm Fares Mohamed</h1>
 
 <p align="center">
-  🧠 Back-end Developer | .NET Enthusiast | Lifelong Learner from Egypt 🇪🇬
+  🧠 Backend .NET Developer &nbsp;·&nbsp; ASP.NET Core Enthusiast &nbsp;·&nbsp; CS Student @ New Cairo Academy 🇪🇬
 </p>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fares-mohamed-0417b6269" target="_blank">
@@ -20,82 +18,93 @@
   <a href="https://www.facebook.com/fars.agwa.7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
+  <a href="https://dazzling-belekoy-8e1266.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on back-end systems using C# and .NET  
-- 🌱 Mastering **ASP.NET Core**, **Entity Framework**, and **Web APIs**  
-- 🚀 Exploring modern architectures like MVC and Clean Architecture  
-- 💡 I love building real-world systems and solving business problems  
-- 🧘 In my free time, I learn something new every day!
+- 🔭 Currently working as a **Back-end Developer at FODWA**, building and maintaining RESTful APIs
+- 🎓 CS student at **New Cairo Academy** — GPA 3.5, graduating Jul 2026
+- 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and writing production-ready code
+- 🐳 Experienced with **Docker**, **Redis**, **JWT**, and **xUnit** testing
+- 💡 I love turning real business problems into scalable backend systems
 
 ---
 
-### 🏆 Highlights
+### 💼 Experience
 
-- ✅ Built 3 real-world .NET applications
-- 📚 Currently studying Software Engineering and Logic Circuits
-- 🔗 Active contributor on GitHub and team player in university projects
-
----
-
-### 📅 What I'm Doing Now
-
-- Building a Company Management System using MVC  
-- Designing a mini ERP (Store Management)  
-- Preparing for exams & growing my back-end skillset 🔥  
+| Role | Company | Period |
+|------|---------|--------|
+| 🟢 Back-end Developer | **FODWA** | Apr 2025 – Present |
+| 🔵 Back-end Development Intern | **Link Development** | Jun 2025 – Aug 2025 |
+| 🟣 Back-end Development Trainee | **ROUTE** | Oct 2024 – May 2025 |
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Store.Fares](https://github.com/fares-ma/Store.Fares.git) | 🛒 Store Management System with product CRUD and sales logic | C#, .NET, EF |
-| [Company.Fares](https://github.com/fares-ma/Company.Fares.git) | 🏢 MVC System to manage employees and departments | ASP.NET MVC, EF |
-| [Examination-System](https://github.com/fares-ma/Examination-System-.git) | 📝 Exam handling system for students and questions | ASP.NET, SQL |
+| Project | Description | Links |
+|---------|-------------|-------|
+| **Fares Store API** | 🛒 Full e-commerce backend — Clean Architecture, JWT, Redis caching, Stripe payments | [GitHub](https://github.com/fares-ma/Store.Fares) · [Swagger](https://storeapi.runasp.net/swagger/index.html) |
+| **Articles Management API** | 📰 Articles & newspapers API — AWS S3, Docker, 100% unit test pass rate | [GitHub](https://github.com/fares-ma/Articles_API_Task_02.git) · [Swagger](https://articlesapi.aspmonster.com/swagger/index.html) |
+| **Travel Booking System** | ✈️ Full booking platform delivered to freelance client in 3 weeks — RBAC, MVC | [GitHub](https://github.com/fares-ma/TravelBookingSystem.git) · [Live](https://travelbooking.runasp.net) |
+| **Company Management System** | 🏢 Multi-role employee & department management — ASP.NET Identity | [GitHub](https://github.com/fares-ma/Company.Fares) · [Live](http://company-fares.runasp.net) |
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Database & Caching**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Testing & Tools**
+
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Other**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fares-ma&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ma&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fares-ma&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-ma&layout=compact&theme=default&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fares-ma&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/fares-mohamed-0417b6269" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" />
-  </a>
-  <a href="https://www.youtube.com/@YOURCHANNEL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" />
-  </a>
-</div>
+<p align="center">
+  💬 Feel free to reach out — always open to new opportunities and interesting backend challenges!
+</p>
