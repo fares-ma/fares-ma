@@ -14,16 +14,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fares-mohamed-0417b6269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/fares_agwa01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.facebook.com/fars.agwa.7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fares-mohamed.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/fares-ma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:farsagwa6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -39,6 +39,14 @@
 - 🐳 Experienced with **Docker**, **Redis**, **JWT**, and **xUnit** testing
 - 💡 I love turning real business problems into scalable backend systems
 - 🟢 Currently open to new backend opportunities — Remote / Hybrid / On-site, Cairo
+
+<div align="center">
+
+| 🔭 Current Focus | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
+|:---:|:---:|:---:|:---:|
+| Backend APIs with ASP.NET Core | System Design & Scalability | Clean Architecture, EF Core, JWT | I once refactored a controller down by 20% just to sleep better at night 😅 |
+
+</div>
 
 ---
 
@@ -83,6 +91,16 @@
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fares-ma/fares-ma/output/github-contribution-grid-snake.svg" />
+</div>
+
+<p align="center"><sub>⚙️ This animated snake needs a one-time GitHub Action setup — see note at the bottom.</sub></p>
+
+---
+
 <p align="center">
   💬 Feel free to reach out — always open to new opportunities and interesting backend challenges!
 </p>
@@ -92,3 +110,9 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:512BD4&height=100&section=footer" width="100%"/>
+
+<details>
+<summary>⚙️ Snake animation setup (one-time)</summary>
+<br/>
+To activate the contribution snake above: go to your <code>fares-ma/fares-ma</code> repo → Actions → New workflow → search "snake" or add <a href="https://github.com/Platane/snk">Platane/snk</a> as a scheduled GitHub Action. It auto-generates and updates the SVG used above. Until then, that section will just show a broken image — feel free to remove it if you don't want to set it up.
+</details>
