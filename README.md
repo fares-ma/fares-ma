@@ -1,12 +1,16 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:00C7B7&height=200&section=header&text=Fares%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
-
-<h1 align="center">Hey there 👋 I'm Fares Mohamed</h1>
 
 <p align="center">
   🧠 Backend .NET Developer &nbsp;·&nbsp; ASP.NET Core Enthusiast &nbsp;·&nbsp; CS Graduate @ New Cairo Academy 🇪🇬
 </p>
+
+<div align="center">
+  <a href="https://github.com/fares-ma">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+Clean+Architecture;Building+Scalable+RESTful+APIs;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fares-mohamed-0417b6269" target="_blank">
@@ -63,41 +67,28 @@
 
 ### 🛠️ Tech Stack
 
-**Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,angular&theme=dark" />
+</div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br/>
 
-**Database & Caching**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mssql,redis,docker,aws,git,postman,swagger&theme=dark" />
+</div>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<br/>
 
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Testing & Tools**
-
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-**Other**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Also working with:** ASP.NET Core Web API/MVC · Entity Framework Core · JWT Authentication · xUnit · AutoMapper · Clean Architecture · CQRS · Repository & Unit of Work patterns
 
 ---
 
 <p align="center">
   💬 Feel free to reach out — always open to new opportunities and interesting backend challenges!
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fares-ma&color=00C7B7&style=flat&label=Profile+Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:512BD4&height=100&section=footer" width="100%"/>
