@@ -19,9 +19,6 @@
   <a href="https://fares-mohamed.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/fares-ma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:farsagwa6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -91,16 +88,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fares-ma/fares-ma/output/github-contribution-grid-snake.svg" />
-</div>
-
-<p align="center"><sub>⚙️ This animated snake needs a one-time GitHub Action setup — see note at the bottom.</sub></p>
-
----
-
 <p align="center">
   💬 Feel free to reach out — always open to new opportunities and interesting backend challenges!
 </p>
@@ -110,9 +97,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:512BD4&height=100&section=footer" width="100%"/>
-
-<details>
-<summary>⚙️ Snake animation setup (one-time)</summary>
-<br/>
-To activate the contribution snake above: go to your <code>fares-ma/fares-ma</code> repo → Actions → New workflow → search "snake" or add <a href="https://github.com/Platane/snk">Platane/snk</a> as a scheduled GitHub Action. It auto-generates and updates the SVG used above. Until then, that section will just show a broken image — feel free to remove it if you don't want to set it up.
-</details>
